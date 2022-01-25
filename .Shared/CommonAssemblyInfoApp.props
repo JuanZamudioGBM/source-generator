@@ -1,0 +1,28 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>10.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <CodeAnalysisOverrideRuleVisibilities>true</CodeAnalysisOverrideRuleVisibilities>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <WarningsAsErrors />
+    <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+    <AnalysisLevel>5.0</AnalysisLevel>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <NoWarn>SYSLIB0011</NoWarn>
+    <Company>MY</Company>
+    <Copyright>My Company</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+    <CLSCompliant>true</CLSCompliant>
+    <NeutralLanguage>en</NeutralLanguage>
+    <!--NUGET-->
+    <!-- main version, from this the values of FileVersion and Version are copied -->
+    <AssemblyVersion>6.0.0.0</AssemblyVersion>
+    <FileVersion>6.0.0.0</FileVersion>
+    <Version>6.0.0.0</Version>
+  </PropertyGroup>
+</Project>

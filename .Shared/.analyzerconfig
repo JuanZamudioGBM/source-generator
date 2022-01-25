@@ -1,0 +1,30 @@
+is_global = true
+
+# Microsoft.CodeAnalysis.CSharp
+dotnet_diagnostic.CS8019.severity = warning
+
+# StyleCop.Analyzers
+dotnet_diagnostic.SA1518.severity = warning
+
+# sonar
+dotnet_diagnostic.S105.severity = warning
+dotnet_diagnostic.S107.severity = warning
+dotnet_diagnostic.S109.severity = warning
+dotnet_diagnostic.S110.severity = warning
+dotnet_diagnostic.S1109.severity = warning
+dotnet_diagnostic.S1151.severity = warning
+dotnet_diagnostic.S1192.severity = warning
+dotnet_diagnostic.S121.severity = warning
+dotnet_diagnostic.S1541.severity = warning
+dotnet_diagnostic.S1659.severity = warning
+dotnet_diagnostic.S1858.severity = warning
+dotnet_diagnostic.S2156.severity = warning
+dotnet_diagnostic.S2302.severity = warning
+dotnet_diagnostic.S2931.severity = warning
+dotnet_diagnostic.S2952.severity = warning
+dotnet_diagnostic.S3216.severity = warning
+dotnet_diagnostic.S3235.severity = warning
+dotnet_diagnostic.S3353.severity = warning
+dotnet_diagnostic.S3776.severity = warning
+dotnet_diagnostic.S3898.severity = warning
+dotnet_diagnostic.S3962.severity = warning
